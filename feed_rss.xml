@@ -4,7 +4,8 @@
         <title> Tech News </title>
         <link> https://www.supernewstech.com </link>
         <description> Las últimas novedades tecnológicas </description>
-
+        <atom:link href="https://Sergio-Guanche.github.io/technews/feed_rss.xml" rel="self" type="application/rss+xml" />
+        
         <item>
             <title>Tesla Roadster</title>
             <link> https://www.marca.com/coches-y-motos/coches/2026/10/16/tesla-roadster-elon-musk-creado-super-deportivo-capaz-volar.html </link>
