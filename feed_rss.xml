@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+        <title> Tech News </title>
+        <link> https://www.supernewstech.com </link>
+        <description> Las últimas novedades tecnológicas </description>
+
+        <item>
+            <title>Tesla Roadster</title>
+            <link> https://www.marca.com/coches-y-motos/coches/2026/10/16/tesla-roadster-elon-musk-creado-super-deportivo-capaz-volar.html </link>
+            <description> Elon Musk presenta un coche volador: llegará en 2028 y alcanzará una velocidad de más de 370 kilómetros por hora. </description>
+            <pubDate> Fri, 16 Oct 2026 09:28:00 GMT </pubDate>
+        </item> 
+
+        <item>
+            <title> Qué es AnyPS5 y cómo funciona </title>
+            <link> https://computerhoy.20minutos.es/gaming/que-es-anyps5-como-funciona-proyecto-codigo-abierto-que-convierte-tu-pc-una-consola-playstation-5_7048577_0.html </link>
+            <description> El proyecto de código abierto que convierte tu PC en una consola PlayStation 5. </description>
+            <pubDate> Thu, 15 Oct 2026 06:00:00 GMT </pubDate>
+        </item>
+
+        <item>
+            <title> Dispositivos con IA de Amazon </title>
+            <link> https://www.abc.es/tecnologia/conversaciones-privadas-amazon-lanza-dos-pequenos-dispositivos-20261016190419-nt.html </link>
+            <description> Amazon ha lanzado nuevos pequeños dispositivos portátiles con inteligencia artificial integrada para grabar, transcribir y resumir conversaciones. </description>
+            <pubDate> Fri, 16 Oct 2026 19:04:00 GMT </pubDate>
+        </item>
+
+    </channel>
+</rss>
